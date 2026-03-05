@@ -1,1 +1,2 @@
 # Comparision_of_Different_IPR_Models
+Created a template on MS Excel to create present IPR curves for a given reservoir data by using contant J approach, Vogel’s correlation, Fetkovitch’s correlation and New correlation. Implemented those models on a real field data of Well B, Keokuk Pool, Oklahoma to compare the IPR curves of different models with real data. Also calculated average absolute errors of different models to analyse which of the model will be best for predicting IPR curve.
